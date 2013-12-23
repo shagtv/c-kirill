@@ -1,5 +1,0 @@
-#include "task1.h"
-
-void task1(){
-	printf("Run task 1");
-}
